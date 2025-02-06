@@ -31,7 +31,7 @@ This collection of three classic games showcases my growth in programming and pr
 
 - **Sound Effects**:  
   - “ButtonClick1.mp3” and “ButtonClick2.mp3” from [ZAPSPLAT](https://www.zapsplat.com/sound-effect-category/button-clicks/).
-- **Data Sources** for word lists (countries, languages, states, etc.).
+- **Data Sources** for word lists (countries, languages, states, etc.) from [Code.org](https://studio.code.org/docs/ide/applab/expressions/getColumn).
 
 ## License
 
@@ -47,4 +47,4 @@ I appreciate any feedback or suggestions! Feel free to open an issue or contact 
 - **LinkedIn**: [linkedin.com/abubakr](https://www.linkedin.com/in/abubakr-elmallah-416a0b273/)  
 - **Email**: ammelmallah@icloud.com  
 
-Created by **Abubakr Elmallah**. Enjoy the games!
+Created by **Abubakr Elmallah**

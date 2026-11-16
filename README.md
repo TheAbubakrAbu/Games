@@ -45,6 +45,6 @@ I appreciate any feedback or suggestions! Feel free to open an issue or contact 
 
 - **Website**: [abubakrelmallah.com](https://abubakrelmallah.com/)  
 - **LinkedIn**: [linkedin.com/abubakr](https://www.linkedin.com/in/abubakr-elmallah-416a0b273/)  
-- **Email**: ammelmallah@icloud.com  
+- **Email**: contact@abubakrelmallah.com  
 
 Created by **Abubakr Elmallah**
